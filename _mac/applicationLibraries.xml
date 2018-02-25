@@ -144,6 +144,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Sinatra/gems/ast-2.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.11, RVM: ruby-2.5.0 [Rails]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/bcrypt-3.1.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/bcrypt-3.1.11/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/bcrypt-3.1.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/bcrypt-3.1.11/ext" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.3.4, RVM: ruby-2.5.0 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/bigdecimal" />
@@ -256,6 +268,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/byebug-10.0.0/exe" />
       </SOURCES>
     </library>
+    <library name="clearance (v1.16.1, RVM: ruby-2.5.0 [Rails]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/clearance-1.16.1/bin" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails (v4.2.2, RVM: ruby-2.5.0 [Rails]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/coffee-rails-4.2.2/lib" />
@@ -342,6 +372,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/did_you_mean-1.2.0/benchmark" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/did_you_mean-1.2.0/evaluation" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/did_you_mean-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="email_validator (v1.6.0, RVM: ruby-2.5.0 [Rails]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/email_validator-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/email_validator-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.5.0 [Rails]) [gem]">
@@ -446,6 +484,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/ffi-1.9.21/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/ffi-1.9.21/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/ffi-1.9.21/libtest" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.22, RVM: ruby-2.5.0 [Rails]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.22" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/ffi-1.9.22/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/ffi-1.9.22/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/ffi-1.9.22/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.22" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/ffi-1.9.22/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/ffi-1.9.22/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/ffi-1.9.22/samples" />
       </SOURCES>
     </library>
     <library name="fiddle (v1.0.0, RVM: ruby-2.5.0 [global]) [gem]">
