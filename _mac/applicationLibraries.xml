@@ -294,6 +294,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/climate_control-0.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="cocaine (v0.5.8, RVM: ruby-2.5.0 [Rails]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/cocaine-0.5.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/cocaine-0.5.8/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails (v4.2.2, RVM: ruby-2.5.0 [Rails]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/coffee-rails-4.2.2/lib" />
@@ -686,6 +694,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/method_source-0.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, RVM: ruby-2.5.0 [Rails]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.5.0 [Rails]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mime-types-data-3.2016.0521/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mime-types-data-3.2016.0521/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mime-types-data-3.2016.0521/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mime-types-data-3.2016.0521/lib" />
+      </SOURCES>
+    </library>
+    <library name="mimemagic (v0.3.2, RVM: ruby-2.5.0 [Rails]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mimemagic-0.3.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mimemagic-0.3.2/script" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v1.0.0, RVM: ruby-2.5.0 [Rails]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/mini_mime-1.0.0/lib" />
@@ -914,6 +950,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Sinatra/gems/parser-2.4.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Sinatra/gems/parser-2.4.0.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.21.0, RVM: ruby-2.5.0 [Rails]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.21.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/pg-0.21.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/pg-0.21.0/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.21.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/pg-0.21.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@Rails/gems/pg-0.21.0/ext" />
       </SOURCES>
     </library>
     <library name="power_assert (v1.1.1, RVM: ruby-2.5.0 [global]) [gem]">
